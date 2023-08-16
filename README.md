@@ -45,10 +45,13 @@
 |
 | ![Yumi0606's github stats](https://github-readme-stats.vercel.app/api?username=Yumi0606&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yumi0606&theme=radical&layout=compact) |
 
+<!--   橙火 -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yumi0606"></img>
 
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
+![](./github-metrics.svg)
+
 
 <!--   grid-snake -->
 ![](https://github.com/BEPB/BEPb/blob/output/github-contribution-grid-snake.svg)
@@ -57,9 +60,9 @@
 <a href="https://skyline.github.com/BEPb/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
  -->
 
-<!--  2d history skills -->
+<!--  2d history skills 
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Yumi0606" width="auto"></img>
-
+-->
 **📫 友情链接:**
 
 <a href="https://space.bilibili.com/24053930?spm_id_from=333.1007.0.0" alt="Connect on Bilibili"> <img src="https://i0.hdslb.com/bfs/activity-plat/static/20220518/49ddaeaba3a23f61a6d2695de40d45f0/2nqyzFm9He.jpeg" alt="Bilibili个人空间" width="30px" height="30px"/> </a>
