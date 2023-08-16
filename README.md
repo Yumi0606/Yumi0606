@@ -42,10 +42,9 @@
 -->
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-<!-- [![Yumi0606's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Yumi0606&theme=github-compact)](https://github.com/Yumi0606/github-readme-activity-graph) -->
-![Yumi0606's github activity graph](https://raw.githubusercontent.com/Yumi0606/Yumi0606/output/github-contribution-grid-snake.svg)
-| .                                                                                                                                       | .                                                                                                                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+<!-- [![Yumi0606's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Yumi0606&theme=github-compact)](https://github.com/Yumi0606/github-readme-activity-graph) 
+![Yumi0606's github activity graph](https://raw.githubusercontent.com/Yumi0606/Yumi0606/output/github-contribution-grid-snake.svg)-->
+|
 | ![Yumi0606's github stats](https://github-readme-stats.vercel.app/api?username=Yumi0606&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yumi0606&theme=radical&layout=compact) |
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yumi0606"></img>
@@ -65,7 +64,7 @@
 
 **📫 How to Reach me:**
 
-<a href="https://space.bilibili.com/24053930?spm_id_from=333.1007.0.0" alt="Connect on Bilibili"> <img src="https://i0.hdslb.com/bfs/activity-plat/static/20220518/49ddaeaba3a23f61a6d2695de40d45f0/2nqyzFm9He.jpeg" /> </a>
+<a href="https://space.bilibili.com/24053930?spm_id_from=333.1007.0.0" alt="Connect on Bilibili"> <img src="https://i0.hdslb.com/bfs/activity-plat/static/20220518/49ddaeaba3a23f61a6d2695de40d45f0/2nqyzFm9He.jpeg" alt="Bilibili个人空间" width="30px" height="30px"/> </a>
 </p>
 
 
