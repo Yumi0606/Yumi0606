@@ -170,7 +170,7 @@ counting of visitors to this page in this section started from May 8, 2022
 ### Profile Views
 counting of visitors to this page in this section started from June 12, 2022
 
-![](https://count.getloli.com/get/@yumi0606.github.readme?theme=asoul)
+![yumi0606](https://count.getloli.com/get/@yumi0606)
 </br>
 
 ![](assets/Bottom_down.svg)
