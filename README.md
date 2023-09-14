@@ -67,7 +67,7 @@
 -->
 **📫 友情链接:**
 
-<a href="https://space.bilibili.com/spm_id_from=333.1007.0.0" alt="Connect on Bilibili"> <img src="https://i0.hdslb.com/bfs/activity-plat/static/20220518/49ddaeaba3a23f61a6d2695de40d45f0/2nqyzFm9He.jpeg" alt="Bilibili个人空间" width="30px" height="30px"/> </a>
+<a href="https://space.bilibili.com" alt="Connect on Bilibili"> <img src="https://i0.hdslb.com/bfs/activity-plat/static/20220518/49ddaeaba3a23f61a6d2695de40d45f0/2nqyzFm9He.jpeg" alt="Bilibili个人空间" width="30px" height="30px"/> </a>
 </p>
 
 ### 访问量:heart:
