@@ -15,7 +15,7 @@
 
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Yumi;+Welcome+to+My+Profile!;Over+4+days+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;MAA+member(claimed))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Yumi;+Welcome+to+My+Profile!;I'm+programing+since+2021;Always+learning+new+things+;Machine+learning+enthusiast+;MAA+Team+member(self-claimed))](https://git.io/typing-svg)
 
 
 <!--   my-kaggle     
@@ -49,10 +49,10 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yumi0606"></img>
 
 <!--   profile-模拟3D活动图 -->
-![](./profile-3d-contrib/profile-green-animate.svg)
-### 哈哈,假的
+<!--![](./profile-3d-contrib/profile-green-animate.svg) -->
+<!--### 哈哈,假的 -->
 <!--   profile-模拟svg文件2 -->
-![](./github-metrics.svg)
+<!-- ![](./github-metrics.svg)
 
 
 <!--   grid-snake -->
@@ -75,5 +75,5 @@
 
 ![yumi0606](https://count.getloli.com/get/@yumi0606)
 </br>
-快助力集齐全部的狐娘吧~
+助力集齐全部的狐娘~
 ![](assets/Bottom_down.svg)
